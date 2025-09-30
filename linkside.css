@@ -9,3 +9,9 @@
 .linkstil{
     text-align: center;
 }
+
+@media (max-width: 600px) {
+    .header{
+        padding: 5px;
+    }
+}
